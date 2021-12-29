@@ -9,3 +9,9 @@ Usage is as simple as can be. Simply click the "Change Color!" button located at
 ![Random Password Generator Screenshot](./assets/images/screen1.png)
 ![Random Password Generator Screenshot](./assets/images/screen2.png)
 ![Random Password Generator Screenshot](./assets/images/screen3.png)
+
+## Deployed Application
+
+the deployed application can be found by following the link below.
+
+https://rrich-kray.github.io/color-flipper/
